@@ -176,13 +176,17 @@ Yes. The CC-BY 4.0 license allows commercial use. Just provide attribution to th
 
 ## Where can I find more examples?
 
-Check the `/examples` folder for five complete superprompts:
+Check the `/examples` folder for nine complete superprompts:
 
 - [Coaching Reflection](../examples/coaching-reflection.md)
-- [Team Retrospective](../examples/team-retrospective.md)
-- [Opportunity Scan](../examples/opportunity-scan.md)
+- [Blog Writing](../examples/blog-writing.md)
+- [Deep Research](../examples/deep-research.md)
+- [Image Generation](../examples/image-generation.md)
+- [Keyword Research](../examples/keyword-research.md)
 - [Documentation Cleanup](../examples/documentation-cleanup.md)
 - [Research Synthesis](../examples/research-synthesis.md)
+- [Mode A: Enhancement](../examples/example-mode-a-enhancement.md)
+- [Mode B: Creation](../examples/example-mode-b-creation.md)
 
 ---
 

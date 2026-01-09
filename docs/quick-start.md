@@ -67,11 +67,13 @@ Copy the structure tweak into your REASONING POLICY.
 
 ## 9. Look at Examples
 
-See five complete, copy-ready superprompts in the `/examples` folder:
+See nine complete, copy-ready superprompts in the `/examples` folder:
 
 - [Coaching Reflection](../examples/coaching-reflection.md)
-- [Team Retrospective](../examples/team-retrospective.md)
-- [Opportunity Scan](../examples/opportunity-scan.md)
+- [Blog Writing](../examples/blog-writing.md)
+- [Deep Research](../examples/deep-research.md)
+- [Image Generation](../examples/image-generation.md)
+- [Keyword Research](../examples/keyword-research.md)
 - [Documentation Cleanup](../examples/documentation-cleanup.md)
 - [Research Synthesis](../examples/research-synthesis.md)
 

@@ -18,10 +18,14 @@ Store superprompts in a structured repo with these conventions:
 
 /examples/
   coaching-reflection.md
-  team-retrospective.md
-  opportunity-scan.md
+  blog-writing.md
+  deep-research.md
+  image-generation.md
+  keyword-research.md
   documentation-cleanup.md
   research-synthesis.md
+  example-mode-a-enhancement.md
+  example-mode-b-creation.md
 
 /docs/
   mental-model.md     # Conceptual foundation
@@ -38,7 +42,7 @@ PROMPTS.md            # Index of all prompts with tags
 ## Naming Conventions
 
 **For prompt files:**
-- Use kebab-case: `coaching-reflection.md`, `team-retrospective.md`
+- Use kebab-case: `coaching-reflection.md`, `blog-writing.md`
 - Name after the task, not the tool: `documentation-cleanup.md` (not `gpt-doc-fixer.md`)
 - Keep names descriptive and searchable: `research-synthesis.md` (not `example5.md`)
 
@@ -172,17 +176,11 @@ The `PROMPTS.md` file serves as a searchable index of all prompts in the repo. E
 **Pattern:** Critique–Revise Loop  
 **Description:** Help leaders reflect on their month and identify one concrete action to improve.
 
-### team-retrospective.md
-**Path:** `/examples/team-retrospective.md`  
-**Tags:** team, retrospective, facilitation, agile  
-**Pattern:** Role Mesh  
-**Description:** Design a 60-minute retrospective that surfaces team dynamics and creates a concrete commitment.
-
-### opportunity-scan.md
-**Path:** `/examples/opportunity-scan.md`  
-**Tags:** entrepreneurship, decision-making, risk-assessment  
-**Pattern:** Counter-Case Probing  
-**Description:** Evaluate a business opportunity by surfacing failure scenarios and stress-testing assumptions.
+### blog-writing.md
+**Path:** `/examples/blog-writing.md`  
+**Tags:** content-creation, writing, marketing  
+**Pattern:** Critique-Revise Loop  
+**Description:** Create engaging, well-structured blog posts for professional audiences.
 
 ## Patterns
 
